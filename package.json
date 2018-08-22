@@ -1,0 +1,22 @@
+{
+  "name": "nanostencil",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natemoo-re/nanostencil.git"
+  },
+  "author": "Nate Moore <nate@natemoo.re> (http://projects.natemoo.re/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natemoo-re/nanostencil/issues"
+  },
+  "homepage": "https://github.com/natemoo-re/nanostencil#readme",
+  "dependencies": {
+    "typescript": "^3.0.1"
+  }
+}
